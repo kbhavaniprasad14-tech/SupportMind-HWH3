@@ -1,0 +1,1 @@
+"""SupportMind backend package."""
